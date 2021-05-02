@@ -11,6 +11,9 @@ A repository for publicly available NLP datasets for African languages.
 - CCAligned (list African languages included):
 - ParaCrawl (list African languages included):
 - WikiMatrix (list African languages included):
+- TwiMT (@GhanaNLP):
+- Amharic datasets (@EthioNLP):
+- More datasets from AfricaNLP 1 and 2, Arxiv, Kaggle and Google
 ## Text Classification
 - KINNEWS and KIRNEWS:
 - Setswana and Sepedi:
