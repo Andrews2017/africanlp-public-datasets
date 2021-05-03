@@ -12,7 +12,7 @@ A repository for publicly available NLP datasets for African languages.
 - ParaCrawl (list African languages included):
 - WikiMatrix (list African languages included):
 - TwiMT (@GhanaNLP):
-- Amharic datasets (@EthioNLP):
+- Amharic datasets (@EthioNLP): MT(https://github.com/AAUThematic4LT/Parallel-Corpora-for-Ethiopian-Languages)
 - More datasets from AfricaNLP 1 and 2, Arxiv, Kaggle and Google
 ## Text Classification
 - KINNEWS and KIRNEWS:
