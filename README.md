@@ -34,6 +34,6 @@ A repository for publicly available NLP datasets for African languages.
 ## Question Answering
 ## Dialogue Systems
 ## Recommendation Systems
-## Part-of-Speach Tagging
+## Part-of-Speech Tagging
 ## Speech Translation
 - [Mboshi](https://github.com/besacier/mboshi-french-parallel-corpus): A speech parallel dataset for Mboshi - French. [paper](https://www.aclweb.org/anthology/L18-1531.pdf)
