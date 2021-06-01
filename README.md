@@ -2,7 +2,7 @@
 
 A repository for publicly available NLP datasets for African languages.
 
-# Datasets (Randomly ordered)
+# Datasets per task (Randomly ordered)
 ## Machine Translation
 - [JW300](https://opus.nlpl.eu/JW300.php): A parallel dataset of 417 languages including 101 African languages.
 - [TANZIL](https://tanzil.net/trans/): A translated Quran to 45 languages including African languages such as Amharic, Hausa, Somali, and Swahili.
