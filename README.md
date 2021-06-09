@@ -1,6 +1,6 @@
 # AfricaNLP-Public-Datasets 
 
-A repository for publicly available NLP datasets for African languages.
+A repository for publicly available Natural Language Processing (NLP) datasets for African languages.
 
 # Datasets per task (Randomly ordered)
 ## Machine Translation
