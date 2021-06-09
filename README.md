@@ -55,6 +55,9 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [Amharic News Text classification](https://github.com/IsraelAbebe/An-Amharic-News-Text-classification-Dataset): News text classification dataset for Amharic.
 
+- [VOA Hausa and BBC Yoruba news classification](https://github.com/uds-lsv/transfer-distant-transformer-african): News title classification dataset for Hausa and Yoruba.
+
+
 ## Sentiment Analysis
 - [TUNIZI](https://zenodo.org/record/4275240#.YLYM99gzaUk): A Tunizian Arabizi sentiment analysis dataset.
 
@@ -65,6 +68,10 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 - [MasakhaNER](https://github.com/masakhane-io/masakhane-ner): A dataset for Named Entity Recognition of 10 African languages.
 
 - [WikiANN](https://metatext.io/datasets/wikiann): A dataset for Named Entity Recognition for 282 languages, including several African languages.
+
+- [Yoruba GV NER](https://github.com/ajesujoba/YorubaTwi-Embedding): Yoruba Named Entity Recognition dataset.
+- 
+- [Hausa VOA NER](https://github.com/uds-lsv/transfer-distant-transformer-african): Hausa Named Entity Recognition dataset
  
 ## Automated Speech Recognition (ASR)
 - [ALFFA](https://github.com/besacier/ALFFA_PUBLIC): An ASR dataset for Amharic, Hausa, Swahili, and Wolof.
