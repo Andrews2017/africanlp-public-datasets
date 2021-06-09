@@ -70,7 +70,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 - [WikiANN](https://metatext.io/datasets/wikiann): A dataset for Named Entity Recognition for 282 languages, including several African languages.
 
 - [Yoruba GV NER](https://github.com/ajesujoba/YorubaTwi-Embedding): Yoruba Named Entity Recognition dataset.
-- 
+
 - [Hausa VOA NER](https://github.com/uds-lsv/transfer-distant-transformer-african): Hausa Named Entity Recognition dataset
  
 ## Automated Speech Recognition (ASR)
