@@ -87,3 +87,6 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 <!-- ## Dialogue Systems -->
 <!-- ## Recommendation Systems -->
 <!-- ## Part-of-Speech Tagging -->
+
+# Contributions
+This is a growing list of NLP datasets for African languages. Please, if there is any publicly available dataset I missed out, kindly feel free to do a pull request or email me at niyongabor.andre@gmail.com to add it.
