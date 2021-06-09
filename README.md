@@ -20,7 +20,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [WikiMatrix](https://ai.facebook.com/blog/wikimatrix/): A parallel text dataset for 85 languages, including Swahili, Malagasy, and Egyptian Arabic. 
 
-- [Ethiopian MT datasets](https://github.com/AAUThematic4LT/Parallel-Corpora-for-Ethiopian-Languages): A parallel dataset for English and 7 Ethiopian languages.
+- [Ethiopian MT datasets](https://github.com/AAUThematic4LT/Parallel-Corpora-for-Ethiopian-Languages): A parallel text dataset for English paired with 7 Ethiopian languages.
 
 - [English-Luganda](https://zenodo.org/record/4764039#.YLYHb9gzaUk): An English-Luganda parallel text dataset.
 
@@ -42,6 +42,8 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [English-Kanuri](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-kanuri-english/): An English-Kanuri parallel text dataset (Free registration required).
 
+- [English-Akuapem Twi](https://zenodo.org/record/4432117#.YMEF3fkzbIU): An English-Akwapem Twi parallel text dataset.
+
 ## Text Classification
 - [KINNEWS and KIRNEWS](https://github.com/Andrews2017/KINNEWS-and-KIRNEWS-Corpus): News Classification datasets for Kinyarwanda (KINNEWS) and Kirundi (KIRNEWS).
 
@@ -49,7 +51,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [Swahili News](https://zenodo.org/record/4300294#.YLYJ6tgzaUk): A news classification dataset for Swahili.
 
-- [Amharic News Text classification](https://github.com/IsraelAbebe/An-Amharic-News-Text-classification-Dataset): Amharic-News-Text-classification-Dataset 
+- [Amharic News Text classification](https://github.com/IsraelAbebe/An-Amharic-News-Text-classification-Dataset): News text classification dataset for Amharic.
 
 ## Sentiment Analysis
 - [TUNIZI](https://zenodo.org/record/4275240#.YLYM99gzaUk): A Tunizian Arabizi sentiment analysis dataset.
