@@ -49,6 +49,8 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [Swahili News](https://zenodo.org/record/4300294#.YLYJ6tgzaUk): A news classification dataset for Swahili.
 
+- [Amharic News Text classification](https://github.com/IsraelAbebe/An-Amharic-News-Text-classification-Dataset): Amharic-News-Text-classification-Dataset 
+
 ## Sentiment Analysis
 - [TUNIZI](https://zenodo.org/record/4275240#.YLYM99gzaUk): A Tunizian Arabizi sentiment analysis dataset.
 
