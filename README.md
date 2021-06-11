@@ -46,7 +46,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [FLORES-101](https://github.com/facebookresearch/flores?fbclid=IwAR1dkUPJ1XA4PibzNx9VM6wwRqUFXKV1Au1_NvDfGGEc4lYGX0pFKSY36N4): A parallel text dataset for 101 languages, including 18 African languages.
 
-- [Xhosa-English](https://opus.nlpl.eu/XhosaNavy.php): A Xhosa-English parallel text dataset.
+- [isiXhosa-English](https://opus.nlpl.eu/XhosaNavy.php): A isiXhosa-English parallel text dataset.
 
 ## Text Classification
 - [KINNEWS and KIRNEWS](https://github.com/Andrews2017/KINNEWS-and-KIRNEWS-Corpus): News Classification datasets for Kinyarwanda (KINNEWS) and Kirundi (KIRNEWS).
@@ -88,6 +88,16 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [Congolese Swahili](https://gamayun.translatorswb.org/download/congolese-swahili-audio-mini-kit/): A Congolese Swahili speech dataset (Free registration required).
 
+- [BembaSpeech](https://github.com/csikasote/BembaSpeech): An ASR dataset for Bemba.
+ 
+- [SPCS Speech](https://repo.sadilar.org/handle/20.500.12185/530): A Sepedi speech dataset.
+
+- [SADiLaR TTS](https://repo.sadilar.org/handle/20.500.12185/527): ASR datasets for Afrikaans, Sesotho, Setswana, and isiXhosa.
+ 
+- NCHLT Speech: Speech datasets for South African's eleven official languages, including [Afrikaans](https://repo.sadilar.org/handle/20.500.12185/280), [Xitsonga](https://repo.sadilar.org/handle/20.500.12185/277), [Setswana](https://repo.sadilar.org/handle/20.500.12185/281), [Sesotho](https://repo.sadilar.org/handle/20.500.12185/278), [Sepedi](https://repo.sadilar.org/handle/20.500.12185/270), [isiZulu](https://repo.sadilar.org/handle/20.500.12185/275), [Tshivenda](https://repo.sadilar.org/handle/20.500.12185/276), [Siswati](https://repo.sadilar.org/handle/20.500.12185/271), [isiXhosa](https://repo.sadilar.org/handle/20.500.12185/279), and [isiNdebele](https://repo.sadilar.org/handle/20.500.12185/272).
+
+- [IARPA Babel Swahili data](https://catalog.ldc.upenn.edu/LDC2017S05): An ASR dataset for Swahili. (Require payment of $25)
+
 ## Speech Translation
 - [Mboshi](https://github.com/besacier/mboshi-french-parallel-corpus): Mboshi-French parallel speech dataset. <!-- [paper](https://www.aclweb.org/anthology/L18-1531.pdf) -->
 
@@ -97,6 +107,10 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 - [Swahili Language Modeling](https://zenodo.org/record/3553423#.YLYPPNgzaUk): A Swahili dataset for language modeling and additional datasets for [Swahili Syllabic Alphabet](https://zenodo.org/record/3544180#.YLYQoNgzaUk) and [Swahili Word Analogy](https://zenodo.org/record/3529878#.YLYQx9gzaUk).
 
 - [OSCAR](https://oscar-corpus.com/): A multilingual dataset for 166 languages, including Amharic, Somalia, Yoruba, Egyptian Arabic, Malagasy, Swahili, and Afrikaans.
+
+- Luganda Agriculture data ([Bukedde](https://github.com/AI-Lab-Makerere/Data4Good/tree/master/Bukedde%20newspaper%20Agriculture%20data), [Wikipedia](https://github.com/AI-Lab-Makerere/Data4Good/tree/master/Wikipedia%20Agriculture%20data)): Monolingual datasets for Luganda in agricultural domain from Bukedde and Wikipedia.
+
+- [isiXhosa](https://repo.sadilar.org/handle/20.500.12185/524): A monolingual dataset for isiXhosa.
 
 <!-- ## Question Answering -->
 <!-- ## Dialogue Systems -->
