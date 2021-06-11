@@ -46,7 +46,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [FLORES-101](https://github.com/facebookresearch/flores?fbclid=IwAR1dkUPJ1XA4PibzNx9VM6wwRqUFXKV1Au1_NvDfGGEc4lYGX0pFKSY36N4): A parallel text dataset for 101 languages, including 18 African languages.
 
-- [isiXhosa-English](https://opus.nlpl.eu/XhosaNavy.php): A isiXhosa-English parallel text dataset.
+- [isiXhosa-English](https://opus.nlpl.eu/XhosaNavy.php): An isiXhosa-English parallel text dataset.
 
 ## Text Classification
 - [KINNEWS and KIRNEWS](https://github.com/Andrews2017/KINNEWS-and-KIRNEWS-Corpus): News Classification datasets for Kinyarwanda (KINNEWS) and Kirundi (KIRNEWS).
