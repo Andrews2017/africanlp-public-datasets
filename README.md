@@ -20,7 +20,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [WikiMatrix](https://ai.facebook.com/blog/wikimatrix/): A parallel text dataset for 85 languages, including Swahili, Malagasy, and Egyptian Arabic. 
 
-- [Ethiopian MT datasets](https://github.com/AAUThematic4LT/Parallel-Corpora-for-Ethiopian-Languages): A parallel text dataset for English paired with 7 Ethiopian languages.
+- [Ethiopian MT datasets](https://github.com/AAUThematic4LT/Parallel-Corpora-for-Ethiopian-Languages): A parallel text dataset for English paired with 7 Ethiopian languages. <!-- (Amharic, Oromifa, Tigrigna, Wolayta, Welaita , and Geez).-->
 
 - [English-Luganda](https://zenodo.org/record/4764039#.YLYHb9gzaUk): An English-Luganda parallel text dataset.
 
@@ -111,6 +111,8 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 - Luganda Agriculture data ([Bukedde](https://github.com/AI-Lab-Makerere/Data4Good/tree/master/Bukedde%20newspaper%20Agriculture%20data), [Wikipedia](https://github.com/AI-Lab-Makerere/Data4Good/tree/master/Wikipedia%20Agriculture%20data)): Monolingual datasets for Luganda in agricultural domain from Bukedde and Wikipedia.
 
 - [isiXhosa](https://repo.sadilar.org/handle/20.500.12185/524): A monolingual dataset for isiXhosa.
+
+- [mC4](https://github.com/allenai/allennlp/discussions/5265): A multilingual dataset for 101 languages, including 13 African languages.
 
 <!-- ## Question Answering -->
 <!-- ## Dialogue Systems -->
