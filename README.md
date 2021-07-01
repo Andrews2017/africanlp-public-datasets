@@ -80,7 +80,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [AMMI ASR dataset](https://github.com/besacier/AMMIcourse/tree/master/STUDENTS-RETURN): An ASR dataset for 19 Languages, including 16 African Languages.
 
-- [CommonVoice](https://commonvoice.mozilla.org/en/languages): An ongoing ASR dataset project for 60 languages (as of May, 2021), including Kinyarwanda, Kabyle, Luganda, amd Hausa.
+- [CommonVoice](https://commonvoice.mozilla.org/en/languages): An ongoing ASR dataset project for 60 languages (as of May, 2021), including Kinyarwanda, Kabyle, Luganda, and Hausa.
 
 - [Fon](https://paperswithcode.com/dataset/fongbe-speech-recognition): An ASR dataset for Fon.
 
