@@ -116,6 +116,10 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [mC4](https://github.com/allenai/allennlp/discussions/5265): A multilingual dataset for 101 languages, including 13 African languages.
 
+## Phonetic Dictionary
+- [ipa-dict](https://github.com/open-dict-data/ipa-dict): A Phonetic dictionary for 23 languages including Swahili.
+
+- [za-lex](https://github.com/NWU-MuST/za_lex):  Lexical pronunciation datasets for 6 languages spoken is South Africa: Afrikaans, Southern Sotho, Xhosa, Zulu, SA English, and Tswana.
 <!-- ## Question Answering -->
 <!-- ## Dialogue Systems -->
 <!-- ## Recommendation Systems -->
