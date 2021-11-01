@@ -44,7 +44,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [English-Akuapem Twi](https://zenodo.org/record/4432117#.YMEF3fkzbIU): An English-Akwapem Twi parallel text dataset.
 
-- [FLORES-101](https://github.com/facebookresearch/flores?fbclid=IwAR1dkUPJ1XA4PibzNx9VM6wwRqUFXKV1Au1_NvDfGGEc4lYGX0pFKSY36N4): A parallel text dataset for 101 languages, including 18 African languages.
+- [FLORES-101](https://github.com/facebookresearch/flores?fbclid=IwAR1dkUPJ1XA4PibzNx9VM6wwRqUFXKV1Au1_NvDfGGEc4lYGX0pFKSY36N4): A parallel text dataset for 101 languages, including 20 African languages.
 
 - [isiXhosa-English](https://opus.nlpl.eu/XhosaNavy.php): An isiXhosa-English parallel text dataset.
 
