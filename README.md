@@ -6,7 +6,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 ## Machine Translation
 <!-- - [JW300](https://opus.nlpl.eu/JW300.php): A parallel text dataset of 417 languages, including 101 African languages. -->
 
-- [TANZIL](https://tanzil.net/trans/): A translated Quran to 45 languages, including African languages such as Amharic, Hausa, Somali, and Swahili.
+- [TANZIL](https://tanzil.net/trans/): A translated Quran to 42 languages, including African languages such as Amharic, Hausa, Somali, and Swahili.
 
 - [MENYO-20k](https://github.com/dadelani/menyo-20k_MT): A Yorùbá-English multi-domain parallel text dataset.
 
