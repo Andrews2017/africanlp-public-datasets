@@ -52,7 +52,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [Gnome](https://opus.nlpl.eu/GNOME.php): A technical domain parallel text dataset for 197 languages,  including 16 African languages.
 
-- [Ubuntu](https://opus.nlpl.eu/Ubuntu.php): A technical domain parallel text dataset for 244 languages, including 22 African languages.
+- [Ubuntu](https://opus.nlpl.eu/Ubuntu.php): A technical domain parallel text dataset for 244 languages, including 24 African languages.
 
 - [OPUS-100](https://opus.nlpl.eu/opus-100.php): A parallel text dataset for 100 languages, including 9 African languages.
 
