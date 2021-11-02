@@ -56,6 +56,10 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [OPUS-100](https://opus.nlpl.eu/opus-100.php): A parallel text dataset for 100 languages, including 9 African languages.
 
+- [TICO-19](https://tico-19.github.io/): A covid-19 domain parallel text dataset for 37 languages, including 13 African languages.
+
+- [Mozila localization](https://opus.nlpl.eu/Mozilla-I10n.php): A parallel text dataset for 197 languages, including 18 African languages.
+
 ## Text Classification
 - [KINNEWS and KIRNEWS](https://github.com/Andrews2017/KINNEWS-and-KIRNEWS-Corpus): News Classification datasets for Kinyarwanda (KINNEWS) and Kirundi (KIRNEWS).
 
