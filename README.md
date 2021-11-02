@@ -54,6 +54,8 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [Ubuntu](https://opus.nlpl.eu/Ubuntu.php): A technical domain parallel text dataset for 244 languages, including 22 African languages.
 
+- [OPUS-100](https://opus.nlpl.eu/opus-100.php): A parallel text dataset for 100 languages, including 9 African languages.
+
 ## Text Classification
 - [KINNEWS and KIRNEWS](https://github.com/Andrews2017/KINNEWS-and-KIRNEWS-Corpus): News Classification datasets for Kinyarwanda (KINNEWS) and Kirundi (KIRNEWS).
 
