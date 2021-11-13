@@ -78,7 +78,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 ## Text Summarization
 - [Amharic Summarization](https://github.com/theamrzaki/text_summurization_abstractive_methods/tree/master/Amharic): A dataset for Amharic abstractive text summarization.
 
-- [XL-Sum](https://github.com/csebuetnlp/xl-sum): A dataset ffor multilingual abstractive text summarization for 44 languages, including 10 African languages.
+- [XL-Sum](https://github.com/csebuetnlp/xl-sum): A dataset for multilingual abstractive text summarization for 44 languages, including 10 African languages.
 
 ## Named Entity Recognition
 - [MasakhaNER](https://github.com/masakhane-io/masakhane-ner): A dataset for Named Entity Recognition of 10 African languages.
