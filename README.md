@@ -129,6 +129,8 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [mC4](https://github.com/allenai/allennlp/discussions/5265): A multilingual dataset for 101 languages, including 13 African languages.
 
+- [MOT v1.0](https://github.com/bltlab/mot/): A multilingual dataset for 44 languages, including 11 African languages.
+
 ## Phonetic Dictionary
 - [ipa-dict](https://github.com/open-dict-data/ipa-dict): A Phonetic dictionary for 23 languages including Swahili.
 
