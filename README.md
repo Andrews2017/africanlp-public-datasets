@@ -74,6 +74,7 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 ## Sentiment Analysis
 - [TUNIZI](https://zenodo.org/record/4275240#.YLYM99gzaUk): A Tunizian Arabizi sentiment analysis dataset.
+- [NaijaSenti](https://github.com/hausanlp/NaijaSenti): A sentiment analysis dataset for Hausa, Igbo, Yoruba, and Nigerian Pidgin.
 
 ## Text Summarization
 - [Amharic Summarization](https://github.com/theamrzaki/text_summurization_abstractive_methods/tree/master/Amharic): A dataset for Amharic abstractive text summarization.
