@@ -140,5 +140,10 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 <!-- ## Recommendation Systems -->
 <!-- ## Part-of-Speech Tagging -->
 
+# Other potential sources:
+- [Masakhane](https://github.com/masakhane-io/masakhane-community/blob/master/list-of-datasets.md)
+
+-[Lanfrica](https://lanfrica.com/)
+
 # Contributions
 This is a growing list of NLP datasets for African languages. Please, if there is any publicly available dataset I missed out, kindly feel free to add it by doing a pull request, contacting me on [Twitter](https://twitter.com/andre_niyongabo), or emailing me at niyongabor.andre@gmail.com.
