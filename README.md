@@ -140,6 +140,9 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 <!-- ## Recommendation Systems -->
 <!-- ## Part-of-Speech Tagging -->
 
+## Chatbots (Conversational AI) Data
+- [AfriWOZ1.0](https://github.com/masakhane-io/chatbots-african-languages/blob/main/README.md) A set of 6 African dialogue datasets, human-translated from MultiWOZ2.2, for training chatbots or conversational AI.  
+
 # Other potential sources:
 - [Masakhane](https://github.com/masakhane-io/masakhane-community/blob/master/list-of-datasets.md)
 
