@@ -40,6 +40,8 @@ A repository for publicly/freely available Natural Language Processing (NLP) dat
 
 - [English-Swahili](https://gamayun.translatorswb.org/download/gamayun-5k-english-swahili/):  An English-Swahili parallel text dataset (Free registration required).
 
+- [English-Swahili](https://github.com/Rogendo/Eng-Swa-Dataset): An English-Swahili textdatasets on two separate files (Free registration required).229,312-Pairs
+
 - [English-Kanuri](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-kanuri-english/): An English-Kanuri parallel text dataset (Free registration required).
 
 - [English-Akuapem Twi](https://zenodo.org/record/4432117#.YMEF3fkzbIU): An English-Akwapem Twi parallel text dataset.
